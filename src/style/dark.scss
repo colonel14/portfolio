@@ -1,0 +1,8 @@
+.app.dark {
+  .app__navbar {
+    background: rgba(14, 13, 57, 0.5);
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    border: 1px solid rgba(255, 255, 255, 0.18);
+  }
+}
